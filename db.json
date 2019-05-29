@@ -1,504 +1,402 @@
-{
-    "people": [
-      {
-        "name": "Mr. Carmella Goodwin",
-        "bio": "The AGP alarm is down, program the bluetooth card so we can index the SDD circuit!",
-        "emoji": ":chestnut:"
-      },
-      {
-        "name": "Watson Gerlach",
-        "bio": "The TCP driver is down, input the digital program so we can index the FTP interface!",
-        "emoji": ":arrow_double_up:"
-      },
-      {
-        "name": "Ashley Hermann",
-        "bio": "I'll connect the mobile XML sensor, that should microchip the XML capacitor!",
-        "emoji": ":bug:"
-      },
-      {
-        "name": "Keyshawn Rice",
-        "bio": "If we navigate the transmitter, we can get to the THX port through the auxiliary JBOD feed!",
-        "emoji": ":pig:"
-      },
-      {
-        "name": "Miss Crystel Shields",
-        "bio": "generating the port won't do anything, we need to navigate the haptic PCI capacitor!",
-        "emoji": ":dromedary_camel:"
-      },
-      {
-        "name": "Joelle Senger",
-        "bio": "Use the mobile SMS microchip, then you can reboot the solid state capacitor!",
-        "emoji": ":aries:"
-      },
-      {
-        "name": "Pablo Emard",
-        "bio": "Try to copy the IB application, maybe it will synthesize the redundant monitor!",
-        "emoji": ":clock730:"
-      },
-      {
-        "name": "Mohamed Doyle",
-        "bio": "If we back up the panel, we can get to the USB feed through the wireless SQL bandwidth!",
-        "emoji": ":grey_exclamation:"
-      },
-      {
-        "name": "Lilly West",
-        "bio": "We need to compress the digital EXE transmitter!",
-        "emoji": ":rice_ball:"
-      },
-      {
-        "name": "Marlene Welch",
-        "bio": "If we input the feed, we can get to the HTTP card through the wireless AGP port!",
-        "emoji": ":balloon:"
-      },
-      {
-        "name": "Cleveland Kling",
-        "bio": "Try to override the RAM monitor, maybe it will override the bluetooth firewall!",
-        "emoji": ":love_letter:"
-      },
-      {
-        "name": "Katlynn Mueller",
-        "bio": "You can't override the hard drive without connecting the bluetooth SAS program!",
-        "emoji": ":sushi:"
-      },
-      {
-        "name": "Fritz Gusikowski",
-        "bio": "If we parse the matrix, we can get to the SCSI port through the multi-byte AGP microchip!",
-        "emoji": ":hotsprings:"
-      },
-      {
-        "name": "Geo Renner",
-        "bio": "Try to back up the RSS monitor, maybe it will hack the bluetooth alarm!",
-        "emoji": ":arrow_down_small:"
-      },
-      {
-        "name": "Alta Upton",
-        "bio": "You can't synthesize the interface without quantifying the redundant IB pixel!",
-        "emoji": ":crying_cat_face:"
-      },
-      {
-        "name": "Josephine Monahan IV",
-        "bio": "Use the auxiliary SSL card, then you can copy the solid state interface!",
-        "emoji": ":clock1230:"
-      },
-      {
-        "name": "Sven Emmerich",
-        "bio": "Try to bypass the IB sensor, maybe it will index the cross-platform panel!",
-        "emoji": ":kissing_smiling_eyes:"
-      },
-      {
-        "name": "Felipe Brown Jr.",
-        "bio": "The EXE system is down, override the wireless alarm so we can reboot the IB interface!",
-        "emoji": ":dragon:"
-      },
-      {
-        "name": "Noemi Sanford",
-        "bio": "synthesizing the application won't do anything, we need to bypass the open-source JBOD transmitter!",
-        "emoji": ":office:"
-      },
-      {
-        "name": "Zion Funk",
-        "bio": "We need to index the digital AI firewall!",
-        "emoji": ":european_post_office:"
-      },
-      {
-        "name": "Charity Mann",
-        "bio": "If we navigate the program, we can get to the CSS port through the auxiliary JSON firewall!",
-        "emoji": ":lock_with_ink_pen:"
-      },
-      {
-        "name": "Donnie Grimes",
-        "bio": "Use the cross-platform AGP sensor, then you can synthesize the wireless application!",
-        "emoji": ":egg:"
-      },
-      {
-        "name": "Laney Klocko",
-        "bio": "Try to program the ADP monitor, maybe it will quantify the neural sensor!",
-        "emoji": ":baby_bottle:"
-      },
-      {
-        "name": "Tyrese Hammes",
-        "bio": "Try to parse the JBOD matrix, maybe it will program the haptic array!",
-        "emoji": ":japan:"
-      },
-      {
-        "name": "Lincoln Kozey",
-        "bio": "We need to compress the digital SQL pixel!",
-        "emoji": ":clock330:"
-      },
-      {
-        "name": "Morris Bergnaum",
-        "bio": "Use the optical PCI hard drive, then you can reboot the back-end sensor!",
-        "emoji": ":signal_strength:"
-      },
-      {
-        "name": "Dr. Lolita Nader",
-        "bio": "Use the digital CSS monitor, then you can program the virtual monitor!",
-        "emoji": ":ledger:"
-      },
-      {
-        "name": "Dr. Tristin Feil",
-        "bio": "The IB card is down, compress the primary feed so we can program the XML microchip!",
-        "emoji": ":snowman:"
-      },
-      {
-        "name": "Angie Hilpert",
-        "bio": "Try to parse the XSS driver, maybe it will navigate the redundant driver!",
-        "emoji": ":heart_decoration:"
-      },
-      {
-        "name": "Hilbert Homenick",
-        "bio": "You can't copy the circuit without backing up the open-source HTTP capacitor!",
-        "emoji": ":bicyclist:"
-      },
-      {
-        "name": "Nathanael Witting",
-        "bio": "I'll quantify the multi-byte CSS alarm, that should circuit the SQL alarm!",
-        "emoji": ":information_source:"
-      },
-      {
-        "name": "Mr. Mozelle Hermann",
-        "bio": "indexing the firewall won't do anything, we need to override the 1080p SMTP sensor!",
-        "emoji": ":runner:"
-      },
-      {
-        "name": "Gina Medhurst",
-        "bio": "We need to input the wireless ADP port!",
-        "emoji": ":trolleybus:"
-      },
-      {
-        "name": "Erick Casper",
-        "bio": "Try to generate the ADP panel, maybe it will back up the 1080p protocol!",
-        "emoji": ":no_entry_sign:"
-      },
-      {
-        "name": "Kaia Powlowski II",
-        "bio": "We need to navigate the haptic SDD array!",
-        "emoji": ":gift:"
-      },
-      {
-        "name": "Bryana Donnelly",
-        "bio": "I'll program the open-source JSON bandwidth, that should program the XSS bus!",
-        "emoji": ":two_men_holding_hands:"
-      },
-      {
-        "name": "Steve Osinski",
-        "bio": "Try to bypass the COM firewall, maybe it will bypass the cross-platform sensor!",
-        "emoji": ":dolls:"
-      },
-      {
-        "name": "Emelia Veum",
-        "bio": "We need to hack the digital XSS capacitor!",
-        "emoji": ":snail:"
-      },
-      {
-        "name": "Alfonzo White",
-        "bio": "If we navigate the feed, we can get to the PNG hard drive through the multi-byte GB panel!",
-        "emoji": ":poop:"
-      },
-      {
-        "name": "Dean Lemke",
-        "bio": "calculating the card won't do anything, we need to back up the redundant THX card!",
-        "emoji": ":hatching_chick:"
-      },
-      {
-        "name": "Niko Keebler",
-        "bio": "We need to program the wireless AGP alarm!",
-        "emoji": ":trophy:"
-      },
-      {
-        "name": "Cecelia Dach",
-        "bio": "If we input the panel, we can get to the JSON transmitter through the back-end HDD bandwidth!",
-        "emoji": ":last_quarter_moon_with_face:"
-      },
-      {
-        "name": "Kenny Conn",
-        "bio": "If we compress the bus, we can get to the EXE card through the cross-platform IB matrix!",
-        "emoji": ":metro:"
-      },
-      {
-        "name": "Nikolas Casper",
-        "bio": "navigating the program won't do anything, we need to compress the haptic PNG program!",
-        "emoji": ":barber:"
-      },
-      {
-        "name": "Lucio Christiansen",
-        "bio": "We need to generate the cross-platform XSS card!",
-        "emoji": ":tomato:"
-      },
-      {
-        "name": "Bryce Treutel",
-        "bio": "You can't input the card without navigating the bluetooth IB sensor!",
-        "emoji": ":cn:"
-      },
-      {
-        "name": "Tremaine Blick",
-        "bio": "You can't bypass the monitor without overriding the bluetooth JBOD bus!",
-        "emoji": ":libra:"
-      },
-      {
-        "name": "Melyna Franecki",
-        "bio": "We need to copy the 1080p XML card!",
-        "emoji": ":heart:"
-      },
-      {
-        "name": "Talia Flatley",
-        "bio": "We need to index the optical SMS firewall!",
-        "emoji": ":chestnut:"
-      },
-      {
-        "name": "Imani Romaguera",
-        "bio": "You can't parse the system without backing up the digital SMTP card!",
-        "emoji": ":trumpet:"
-      },
-      {
-        "name": "Krystina Mueller",
-        "bio": "If we back up the capacitor, we can get to the SQL feed through the virtual XSS circuit!",
-        "emoji": ":eight_spoked_asterisk:"
-      },
-      {
-        "name": "Emmy Cartwright PhD",
-        "bio": "The AI monitor is down, input the back-end alarm so we can generate the SCSI sensor!",
-        "emoji": ":white_circle:"
-      },
-      {
-        "name": "Miss Lucio Ondricka",
-        "bio": "We need to compress the neural SMS firewall!",
-        "emoji": ":japanese_ogre:"
-      },
-      {
-        "name": "Leif Wolf DVM",
-        "bio": "The HDD array is down, navigate the haptic matrix so we can input the AGP matrix!",
-        "emoji": ":dart:"
-      },
-      {
-        "name": "Cayla Dickens",
-        "bio": "You can't index the bandwidth without calculating the 1080p FTP bus!",
-        "emoji": ":tomato:"
-      },
-      {
-        "name": "Hollis Dicki",
-        "bio": "Try to synthesize the EXE panel, maybe it will generate the bluetooth array!",
-        "emoji": ":goberserk:"
-      },
-      {
-        "name": "Miguel Ebert",
-        "bio": "The HDD driver is down, transmit the back-end matrix so we can transmit the SAS microchip!",
-        "emoji": ":u6709:"
-      },
-      {
-        "name": "Wava Kohler",
-        "bio": "Try to back up the PCI microchip, maybe it will hack the multi-byte panel!",
-        "emoji": ":page_facing_up:"
-      },
-      {
-        "name": "Miss Erna Lind",
-        "bio": "We need to quantify the solid state JBOD transmitter!",
-        "emoji": ":no_smoking:"
-      },
-      {
-        "name": "Ayana Stracke II",
-        "bio": "The XML interface is down, synthesize the virtual driver so we can navigate the HTTP capacitor!",
-        "emoji": ":black_square_button:"
-      },
-      {
-        "name": "Kayleigh Schimmel MD",
-        "bio": "If we parse the microchip, we can get to the JBOD application through the auxiliary XSS circuit!",
-        "emoji": ":traffic_light:"
-      },
-      {
-        "name": "Beulah Klocko",
-        "bio": "The XSS driver is down, generate the redundant alarm so we can calculate the XSS port!",
-        "emoji": ":u6307:"
-      },
-      {
-        "name": "Zachariah Douglas",
-        "bio": "You can't connect the bandwidth without connecting the haptic RAM protocol!",
-        "emoji": ":santa:"
-      },
-      {
-        "name": "Miss Polly Jakubowski",
-        "bio": "I'll parse the mobile JSON sensor, that should driver the RAM pixel!",
-        "emoji": ":dress:"
-      },
-      {
-        "name": "Chelsey Stracke",
-        "bio": "Use the optical COM array, then you can index the bluetooth card!",
-        "emoji": ":busstop:"
-      },
-      {
-        "name": "Issac Grimes",
-        "bio": "If we bypass the capacitor, we can get to the HTTP system through the open-source HDD bus!",
-        "emoji": ":sunrise_over_mountains:"
-      },
-      {
-        "name": "Miss Darrick Howell",
-        "bio": "I'll parse the auxiliary SAS protocol, that should driver the EXE program!",
-        "emoji": ":us:"
-      },
-      {
-        "name": "Brisa Nienow",
-        "bio": "The PNG protocol is down, input the solid state microchip so we can index the AGP alarm!",
-        "emoji": ":crown:"
-      },
-      {
-        "name": "Nathen Okuneva",
-        "bio": "The COM pixel is down, transmit the digital sensor so we can hack the AI feed!",
-        "emoji": ":video_game:"
-      },
-      {
-        "name": "Dusty Rowe",
-        "bio": "I'll parse the haptic SMS bandwidth, that should interface the SMS hard drive!",
-        "emoji": ":heavy_minus_sign:"
-      },
-      {
-        "name": "Marjolaine Bode",
-        "bio": "Use the cross-platform FTP bus, then you can index the back-end panel!",
-        "emoji": ":fast_forward:"
-      },
-      {
-        "name": "Anjali Kulas",
-        "bio": "Use the neural PCI array, then you can navigate the optical interface!",
-        "emoji": ":children_crossing:"
-      },
-      {
-        "name": "Chauncey Prosacco",
-        "bio": "Use the haptic AI interface, then you can connect the multi-byte transmitter!",
-        "emoji": ":no_entry:"
-      },
-      {
-        "name": "Wilmer Wilkinson",
-        "bio": "Use the mobile THX capacitor, then you can calculate the back-end bandwidth!",
-        "emoji": ":arrow_down:"
-      },
-      {
-        "name": "Martin Morissette",
-        "bio": "You can't override the capacitor without copying the neural PNG array!",
-        "emoji": ":closed_book:"
-      },
-      {
-        "name": "Vanessa West",
-        "bio": "You can't quantify the pixel without navigating the multi-byte SQL monitor!",
-        "emoji": ":8ball:"
-      },
-      {
-        "name": "Aron Emard",
-        "bio": "You can't transmit the alarm without transmitting the virtual SDD protocol!",
-        "emoji": ":clock330:"
-      },
-      {
-        "name": "Cecilia VonRueden",
-        "bio": "If we generate the matrix, we can get to the JBOD system through the open-source IB circuit!",
-        "emoji": ":arrow_heading_down:"
-      },
-      {
-        "name": "Kyler Murray",
-        "bio": "You can't back up the transmitter without indexing the haptic EXE alarm!",
-        "emoji": ":gb:"
-      },
-      {
-        "name": "Roy Connelly V",
-        "bio": "We need to transmit the solid state COM bus!",
-        "emoji": ":hearts:"
-      },
-      {
-        "name": "Yazmin Ziemann",
-        "bio": "programming the driver won't do anything, we need to quantify the online JBOD port!",
-        "emoji": ":gift:"
-      },
-      {
-        "name": "Leatha Beatty",
-        "bio": "We need to compress the cross-platform PNG hard drive!",
-        "emoji": ":frog:"
-      },
-      {
-        "name": "Baron Boyle",
-        "bio": "We need to navigate the bluetooth PNG firewall!",
-        "emoji": ":small_red_triangle_down:"
-      },
-      {
-        "name": "Lelah White",
-        "bio": "Try to bypass the HDD circuit, maybe it will calculate the multi-byte transmitter!",
-        "emoji": ":high_heel:"
-      },
-      {
-        "name": "Concepcion Welch",
-        "bio": "The SAS port is down, connect the wireless bandwidth so we can reboot the THX interface!",
-        "emoji": ":grin:"
-      },
-      {
-        "name": "Dr. Joseph Stracke",
-        "bio": "I'll index the 1080p AI interface, that should circuit the RAM firewall!",
-        "emoji": ":mortar_board:"
-      },
-      {
-        "name": "Blair Von",
-        "bio": "backing up the bus won't do anything, we need to back up the solid state JSON matrix!",
-        "emoji": ":clock4:"
-      },
-      {
-        "name": "Ricky Ward",
-        "bio": "You can't hack the bus without synthesizing the wireless SMTP system!",
-        "emoji": ":books:"
-      },
-      {
-        "name": "Milo Hilpert",
-        "bio": "The COM protocol is down, reboot the online port so we can compress the EXE program!",
-        "emoji": ":clock930:"
-      },
-      {
-        "name": "Vena Considine",
-        "bio": "Try to index the HDD interface, maybe it will bypass the cross-platform interface!",
-        "emoji": ":ear:"
-      },
-      {
-        "name": "Isom Parker",
-        "bio": "I'll override the virtual PNG alarm, that should application the GB application!",
-        "emoji": ":oncoming_police_car:"
-      },
-      {
-        "name": "Derek Kris DDS",
-        "bio": "navigating the pixel won't do anything, we need to connect the online TCP transmitter!",
-        "emoji": ":o2:"
-      },
-      {
-        "name": "Ms. Carlee Kuhlman",
-        "bio": "programming the application won't do anything, we need to bypass the wireless TCP transmitter!",
-        "emoji": ":first_quarter_moon_with_face:"
-      },
-      {
-        "name": "Albina Murray",
-        "bio": "You can't transmit the firewall without transmitting the bluetooth SDD circuit!",
-        "emoji": ":sushi:"
-      },
-      {
-        "name": "Mollie Berge",
-        "bio": "Use the back-end SSL alarm, then you can bypass the mobile matrix!",
-        "emoji": ":u55b6:"
-      },
-      {
-        "name": "Dr. Dayton Treutel",
-        "bio": "Use the auxiliary PNG application, then you can hack the virtual bandwidth!",
-        "emoji": ":oncoming_police_car:"
-      },
-      {
-        "name": "Mrs. Shayne Hyatt",
-        "bio": "We need to transmit the cross-platform ADP protocol!",
-        "emoji": ":no_entry_sign:"
-      },
-      {
-        "name": "Mallie Padberg",
-        "bio": "Use the back-end COM monitor, then you can back up the back-end pixel!",
-        "emoji": ":horse_racing:"
-      },
-      {
-        "name": "Cameron O'Connell",
-        "bio": "The GB sensor is down, index the neural protocol so we can index the RSS monitor!",
-        "emoji": ":mailbox:"
-      },
-      {
-        "name": "Elinor Lehner",
-        "bio": "I'll index the primary THX firewall, that should alarm the AGP hard drive!",
-        "emoji": ":open_mouth:"
-      }
-    ]
+[
+  {
+    "name": "Miss Rosalee Hoeger",
+    "bio": "The AI interface is down, copy the redundant port so we can hack the CSS program!"
+  },
+  {
+    "name": "Yasmeen Ankunding IV",
+    "bio": "Try to back up the IB bandwidth, maybe it will copy the solid state microchip!"
+  },
+  {
+    "name": "Miss Ricardo Gutkowski",
+    "bio": "I'll override the wireless HTTP feed, that should sensor the CSS driver!"
+  },
+  {
+    "name": "Jaden Erdman",
+    "bio": "You can't override the sensor without connecting the primary USB circuit!"
+  },
+  {
+    "name": "Woodrow Fay",
+    "bio": "Use the haptic SDD system, then you can hack the auxiliary array!"
+  },
+  {
+    "name": "Madeline Jast",
+    "bio": "If we calculate the driver, we can get to the RSS matrix through the bluetooth SMS firewall!"
+  },
+  {
+    "name": "Kaelyn Roob",
+    "bio": "quantifying the interface won't do anything, we need to reboot the solid state ADP microchip!"
+  },
+  {
+    "name": "Waldo Abshire",
+    "bio": "Use the bluetooth SMTP array, then you can generate the 1080p bus!"
+  },
+  {
+    "name": "Will Heathcote",
+    "bio": "indexing the capacitor won't do anything, we need to program the auxiliary SCSI panel!"
+  },
+  {
+    "name": "Jamar Nikolaus",
+    "bio": "The XSS driver is down, override the haptic panel so we can transmit the COM card!"
+  },
+  {
+    "name": "Johnson Connelly",
+    "bio": "If we override the microchip, we can get to the SCSI feed through the solid state SMTP capacitor!"
+  },
+  {
+    "name": "Eleazar Kutch",
+    "bio": "You can't calculate the program without calculating the open-source FTP array!"
+  },
+  {
+    "name": "Mr. Orville Rowe",
+    "bio": "Try to compress the SSL transmitter, maybe it will back up the cross-platform firewall!"
+  },
+  {
+    "name": "Barton Schuppe II",
+    "bio": "Try to parse the SAS interface, maybe it will program the wireless circuit!"
+  },
+  {
+    "name": "Dale Schamberger",
+    "bio": "I'll reboot the back-end JBOD microchip, that should pixel the SCSI application!"
+  },
+  {
+    "name": "Helen Friesen",
+    "bio": "The TCP matrix is down, index the mobile capacitor so we can override the GB matrix!"
+  },
+  {
+    "name": "Janis White",
+    "bio": "The TCP sensor is down, input the back-end card so we can transmit the AI transmitter!"
+  },
+  {
+    "name": "Andreane Schumm",
+    "bio": "Use the 1080p SAS monitor, then you can generate the wireless panel!"
+  },
+  {
+    "name": "Marques Fadel",
+    "bio": "calculating the capacitor won't do anything, we need to copy the wireless ADP driver!"
+  },
+  {
+    "name": "Roslyn Bernier",
+    "bio": "If we synthesize the protocol, we can get to the XSS port through the primary SDD feed!"
+  },
+  {
+    "name": "Mr. Annabelle Ebert",
+    "bio": "The RSS transmitter is down, generate the solid state pixel so we can back up the CSS panel!"
+  },
+  {
+    "name": "Lelah Botsford I",
+    "bio": "transmitting the interface won't do anything, we need to back up the 1080p GB sensor!"
+  },
+  {
+    "name": "Talon Price",
+    "bio": "Try to calculate the USB feed, maybe it will calculate the solid state microchip!"
+  },
+  {
+    "name": "Daija Mitchell",
+    "bio": "Try to parse the SMTP transmitter, maybe it will input the 1080p system!"
+  },
+  {
+    "name": "Clemens Feil",
+    "bio": "We need to parse the haptic EXE pixel!"
+  },
+  {
+    "name": "Jared Brakus",
+    "bio": "Use the online RAM application, then you can back up the online hard drive!"
+  },
+  {
+    "name": "Taurean Kub",
+    "bio": "If we generate the firewall, we can get to the AI application through the cross-platform FTP microchip!"
+  },
+  {
+    "name": "Vladimir Balistreri DDS",
+    "bio": "The XSS array is down, input the mobile interface so we can navigate the JBOD sensor!"
+  },
+  {
+    "name": "Mrs. Reba Fadel",
+    "bio": "The THX card is down, navigate the virtual transmitter so we can transmit the THX program!"
+  },
+  {
+    "name": "Ernesto Beatty",
+    "bio": "You can't calculate the driver without overriding the multi-byte JBOD bus!"
+  },
+  {
+    "name": "Minerva Nolan",
+    "bio": "We need to reboot the 1080p PNG matrix!"
+  },
+  {
+    "name": "Brown Howell",
+    "bio": "The SCSI port is down, back up the online microchip so we can transmit the PCI pixel!"
+  },
+  {
+    "name": "Ms. Aiden Hartmann",
+    "bio": "If we override the card, we can get to the PNG microchip through the primary CSS program!"
+  },
+  {
+    "name": "Malcolm Muller",
+    "bio": "navigating the system won't do anything, we need to bypass the primary SAS hard drive!"
+  },
+  {
+    "name": "Lacy Harris",
+    "bio": "hacking the bus won't do anything, we need to hack the multi-byte AI protocol!"
+  },
+  {
+    "name": "Brant Lang",
+    "bio": "The GB protocol is down, input the neural circuit so we can hack the SQL hard drive!"
+  },
+  {
+    "name": "Angel Homenick",
+    "bio": "The EXE protocol is down, copy the auxiliary card so we can compress the XML firewall!"
+  },
+  {
+    "name": "Timmy Pouros",
+    "bio": "I'll navigate the neural ADP matrix, that should program the TCP protocol!"
+  },
+  {
+    "name": "Angie Hackett",
+    "bio": "Use the virtual ADP driver, then you can reboot the 1080p microchip!"
+  },
+  {
+    "name": "Fanny Pollich",
+    "bio": "If we reboot the application, we can get to the PCI transmitter through the multi-byte HDD port!"
+  },
+  {
+    "name": "Rosella O'Hara",
+    "bio": "overriding the application won't do anything, we need to override the optical GB card!"
+  },
+  {
+    "name": "Tomas Hane I",
+    "bio": "The XSS application is down, quantify the mobile bandwidth so we can synthesize the SAS microchip!"
+  },
+  {
+    "name": "Mr. Koby Schuster",
+    "bio": "If we program the card, we can get to the FTP pixel through the cross-platform AI driver!"
+  },
+  {
+    "name": "Thaddeus Swift Jr.",
+    "bio": "We need to input the online FTP interface!"
+  },
+  {
+    "name": "Eleonore Thompson",
+    "bio": "Try to generate the IB transmitter, maybe it will quantify the online application!"
+  },
+  {
+    "name": "Sierra Franecki",
+    "bio": "Use the bluetooth AI pixel, then you can quantify the back-end bandwidth!"
+  },
+  {
+    "name": "Tad Mueller",
+    "bio": "connecting the protocol won't do anything, we need to program the cross-platform HDD system!"
+  },
+  {
+    "name": "Josephine Hilll",
+    "bio": "Use the digital SMTP capacitor, then you can back up the bluetooth hard drive!"
+  },
+  {
+    "name": "Tristian Willms",
+    "bio": "compressing the hard drive won't do anything, we need to generate the auxiliary PCI firewall!"
+  },
+  {
+    "name": "Miss Norbert Johns",
+    "bio": "The JBOD alarm is down, override the 1080p feed so we can navigate the ADP microchip!"
+  },
+  {
+    "name": "Briana Schaefer",
+    "bio": "We need to input the open-source THX driver!"
+  },
+  {
+    "name": "Mireya Yost",
+    "bio": "You can't program the program without overriding the virtual SMS pixel!"
+  },
+  {
+    "name": "Sarah Howell",
+    "bio": "If we override the panel, we can get to the FTP monitor through the mobile SCSI array!"
+  },
+  {
+    "name": "Murl Metz",
+    "bio": "We need to navigate the cross-platform ADP microchip!"
+  },
+  {
+    "name": "Lowell Wyman",
+    "bio": "If we index the microchip, we can get to the SMS driver through the virtual SDD system!"
+  },
+  {
+    "name": "Lue Sawayn",
+    "bio": "generating the microchip won't do anything, we need to compress the multi-byte SCSI firewall!"
+  },
+  {
+    "name": "Kristofer Hansen",
+    "bio": "Try to compress the ADP monitor, maybe it will copy the solid state bus!"
+  },
+  {
+    "name": "Kaden Sipes",
+    "bio": "Try to reboot the CSS port, maybe it will navigate the primary firewall!"
+  },
+  {
+    "name": "Webster Hyatt III",
+    "bio": "I'll copy the haptic SQL array, that should hard drive the ADP monitor!"
+  },
+  {
+    "name": "Jay Conroy",
+    "bio": "I'll compress the back-end HTTP pixel, that should circuit the RAM transmitter!"
+  },
+  {
+    "name": "Christina Mann",
+    "bio": "The AI capacitor is down, bypass the open-source driver so we can hack the ADP alarm!"
+  },
+  {
+    "name": "Elfrieda Sawayn",
+    "bio": "I'll reboot the wireless TCP system, that should card the EXE panel!"
+  },
+  {
+    "name": "Hertha Von",
+    "bio": "If we quantify the application, we can get to the AGP bandwidth through the cross-platform XML bus!"
+  },
+  {
+    "name": "Dr. Fatima Gaylord",
+    "bio": "If we parse the alarm, we can get to the HTTP interface through the open-source GB program!"
+  },
+  {
+    "name": "Brady Ferry",
+    "bio": "If we synthesize the port, we can get to the XSS array through the 1080p THX microchip!"
+  },
+  {
+    "name": "Eugenia Rohan",
+    "bio": "Use the multi-byte SSL alarm, then you can connect the multi-byte program!"
+  },
+  {
+    "name": "Hettie Nikolaus",
+    "bio": "You can't transmit the firewall without calculating the back-end SSL panel!"
+  },
+  {
+    "name": "Beatrice Graham",
+    "bio": "I'll reboot the haptic GB bus, that should feed the JSON system!"
+  },
+  {
+    "name": "Maryam Hettinger",
+    "bio": "I'll index the auxiliary XSS bus, that should panel the TCP pixel!"
+  },
+  {
+    "name": "Cara Larkin",
+    "bio": "If we reboot the capacitor, we can get to the RSS panel through the optical HDD transmitter!"
+  },
+  {
+    "name": "Lisette Schinner",
+    "bio": "If we navigate the panel, we can get to the AI application through the virtual GB transmitter!"
+  },
+  {
+    "name": "Geovanny Hilpert",
+    "bio": "You can't bypass the card without synthesizing the open-source XML system!"
+  },
+  {
+    "name": "Marianne Conroy",
+    "bio": "I'll navigate the multi-byte IB array, that should application the JSON monitor!"
+  },
+  {
+    "name": "Akeem Goodwin",
+    "bio": "Try to calculate the PNG protocol, maybe it will compress the cross-platform feed!"
+  },
+  {
+    "name": "Rachel Price",
+    "bio": "I'll index the neural PNG array, that should card the AI feed!"
+  },
+  {
+    "name": "Eleonore MacGyver",
+    "bio": "I'll transmit the virtual USB protocol, that should program the HDD alarm!"
+  },
+  {
+    "name": "Wanda Leuschke III",
+    "bio": "We need to hack the multi-byte SAS program!"
+  },
+  {
+    "name": "Richie Schroeder",
+    "bio": "Try to override the XML microchip, maybe it will generate the mobile hard drive!"
+  },
+  {
+    "name": "Sid Armstrong",
+    "bio": "I'll index the neural SMTP monitor, that should bus the SMTP interface!"
+  },
+  {
+    "name": "Brown Gulgowski",
+    "bio": "I'll synthesize the virtual SSL bandwidth, that should array the RAM bus!"
+  },
+  {
+    "name": "Maggie Green",
+    "bio": "The TCP capacitor is down, calculate the optical matrix so we can copy the XSS circuit!"
+  },
+  {
+    "name": "Callie Turcotte",
+    "bio": "You can't program the sensor without indexing the mobile THX capacitor!"
+  },
+  {
+    "name": "Shanon Ryan",
+    "bio": "The SDD circuit is down, navigate the mobile circuit so we can program the SDD interface!"
+  },
+  {
+    "name": "Dayana Turcotte",
+    "bio": "If we calculate the application, we can get to the COM array through the primary ADP transmitter!"
+  },
+  {
+    "name": "Mr. Maurice Barton",
+    "bio": "copying the firewall won't do anything, we need to input the solid state SCSI sensor!"
+  },
+  {
+    "name": "Lina Auer",
+    "bio": "We need to override the online PCI protocol!"
+  },
+  {
+    "name": "Mrs. Verner Morissette",
+    "bio": "Try to quantify the SDD monitor, maybe it will copy the primary feed!"
+  },
+  {
+    "name": "Reinhold Jaskolski",
+    "bio": "I'll index the online RAM system, that should panel the SMS bandwidth!"
+  },
+  {
+    "name": "Darian Reynolds",
+    "bio": "Try to generate the SCSI panel, maybe it will connect the back-end capacitor!"
+  },
+  {
+    "name": "Charlene Lehner",
+    "bio": "Use the cross-platform IB port, then you can copy the 1080p monitor!"
+  },
+  {
+    "name": "Edward Mraz",
+    "bio": "indexing the card won't do anything, we need to transmit the wireless EXE bus!"
+  },
+  {
+    "name": "Ryan Goyette",
+    "bio": "The SDD firewall is down, input the 1080p feed so we can bypass the SDD card!"
+  },
+  {
+    "name": "Verda Orn",
+    "bio": "We need to transmit the solid state JSON interface!"
+  },
+  {
+    "name": "Wilfredo Daniel",
+    "bio": "copying the transmitter won't do anything, we need to generate the cross-platform TCP capacitor!"
+  },
+  {
+    "name": "Corbin Barton",
+    "bio": "Use the online RAM matrix, then you can generate the virtual card!"
+  },
+  {
+    "name": "Giovanni Nitzsche",
+    "bio": "We need to connect the multi-byte XML monitor!"
+  },
+  {
+    "name": "Brayan Gislason",
+    "bio": "I'll generate the multi-byte USB interface, that should pixel the GB array!"
+  },
+  {
+    "name": "Brandon Hauck",
+    "bio": "Try to calculate the ADP program, maybe it will copy the neural alarm!"
+  },
+  {
+    "name": "Ms. Blanche Hartmann",
+    "bio": "quantifying the system won't do anything, we need to bypass the haptic XSS card!"
+  },
+  {
+    "name": "Cristal Kozey",
+    "bio": "navigating the panel won't do anything, we need to compress the back-end PNG panel!"
   }
+]
